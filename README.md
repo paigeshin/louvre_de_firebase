@@ -40,6 +40,10 @@
 - **Dynamic Links**
 - **Admob**
 
+# Add Dependency
+
+[Firebase Products](https://firebase.google.com/docs/ios/setup)
+
 # Analytics
 
 [Firebase Analytics not to track test users](https://www.notion.so/Today-Programming-05b3e44044164337afdc4cae94a5af50)
@@ -276,10 +280,8 @@ AB Testing for `Send Notifications` ⇒ Custom Events, Retention User, ex) back_
 
 # Others
 
-- Firebase Mailchimp
+Firebase Mailchimp
 
-
-[Firebase Products](https://firebase.google.com/docs/ios/setup)
 
 # AB Testing 
 
